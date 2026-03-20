@@ -57,7 +57,7 @@ A complete full-stack blogging platform featuring:
   <a href="https://github.com/GramLetoaba">
     <img src="https://img.shields.io/github/followers/GramLetoaba?label=Follow&style=social" alt="GitHub Badge">
   </a>
-  <a href="mailto:gram.letoaba@example.com">
+  <a href="mailto:jonesletoaba@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
   <a href="https://linkedin.com/in/gramletoaba">
